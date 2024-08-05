@@ -17,7 +17,7 @@ technology</p>
             <div className="w-full lg:w-96 lg:p-8 ml-24">
             <div className="flex justify-center
             ">
-                <img src={profilepic} alt="Namandeep Singh" />
+                <img src={profilepic} alt="Namandeep Singh" className="rounded-3xl border-4 border-neutral-800" />
             </div>
 
             </div>
